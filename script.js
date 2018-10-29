@@ -5,5 +5,5 @@ function toogletext(){
     this.classList.toggle('active');
 }
 function tooglemenu(){
-    this.classList.toggle('open')
+    this.classList.toggle('open');
 }
